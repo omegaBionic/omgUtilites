@@ -1,2 +1,1 @@
-# omgUtilites
-This repos is used for omgUtilites.
+This repository is used for utilities.
